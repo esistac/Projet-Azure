@@ -1,0 +1,14 @@
+{
+"name": "hello projet-azure",
+"version": "1.0.0",
+"description": "A simple Hello projet-azure Node.js app",
+"main": "index.js",
+"scripts": {
+"start": "node index.js"
+},
+"dependencies": {
+"mongodb": "^4.0.0"
+},
+"author": "esistac",
+"license": "ISC"
+}
